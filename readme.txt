@@ -1,4 +1,2 @@
-learn git
-two days
-three line!
-four
+Git is a version control system.
+Git is free software.
